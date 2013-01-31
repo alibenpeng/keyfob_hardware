@@ -1,0 +1,2 @@
+This is a simple garage door remote based on an ATMega and a RFM12B transceiver module.
+You can read about the design and development process at http://testblog.arles-electrique.de
